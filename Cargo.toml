@@ -1,0 +1,7 @@
+[package]
+name = "dlt_client_cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dlt_format_parser = { path = "../dlt_format_parser" }
